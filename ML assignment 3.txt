@@ -1,0 +1,57 @@
+1. Which of the following is an application of clustering?
+Answer-d. All of the above
+
+
+2. On which data type, we cannot perform cluster analysis?
+Answer-d. None
+
+
+3. Netflix’s movie recommendation system uses-
+Answer-c. Reinforcement learning and Unsupervised learning
+
+
+4. The final output of Hierarchical clustering is-
+Answer-b. The tree representing how close the data points are to each other
+
+
+5. Which of the step is not required for K-means clustering?
+Answer-d. None
+
+
+6. Which is the following is wrong?
+Answer-c. k-nearest neighbour is same as k-means
+
+
+7. Which of the following metrics, do we have for finding dissimilarity between two clusters in hierarchical clustering?
+Answer-d. 1, 2 and 3
+
+
+8. Which of the following are true?
+Answer-a. 1 only
+
+
+9. In the figure above, if you draw a horizontal line on y-axis for y=2. What will be the number of clusters
+formed?
+Answer-a. 2
+
+10. For which of the following tasks might clustering be a suitable approach?
+Answer-a. Given sales data from a large number of products in a supermarket, estimate future sales for each
+of these products.
+
+
+11. Given, six points with the following attributes:
+Answer-(A)
+
+
+12. Given, six points with the following attributes:
+Answer-(B)
+
+
+13. What is the importance of clustering?
+Answer-Clustering is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group than those in other groups. In simple words, the aim is to segregate groups with similar traits and assign them into clusters.
+
+Let’s understand this with an example. Suppose, you are the head of a rental store and wish to understand preferences of your costumers to scale up your business. Is it possible for you to look at details of each costumer and devise a unique business strategy for each one of them? Definitely not. But, what you can do is to cluster all of your costumers into say 10 groups based on their purchasing habits and use a separate strategy for costumers in each of these 10 groups. And this is what we call clustering.
+
+
+14. How can I improve my clustering performance?
+Answer-Graph-based clustering performance can easily be improved by applying ICA blind source separation during the graph Laplacian embedding step. Applying unsupervised feature learning to input data using either RICA or SFT, improves clustering performance.

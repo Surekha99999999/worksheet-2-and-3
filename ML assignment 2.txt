@@ -1,0 +1,47 @@
+1. Movie Recommendation systems are an example of:
+Answer-  a) 2 only
+
+2. Sentiment Analysis is an example of:
+Answer- d)1,2 and 4
+
+3. Can decision trees be used for performing clustering?
+Answer- a) True
+
+4. Which of the following is the most appropriate strategy for data cleaning before performing clustering analysis, given less than desirable number of data points:
+
+Answer-a)1 only
+
+5. What is the minimum no. of variables/ features required to perform clustering?
+Answer-b) 1
+
+6. For two runs of K-Mean clustering is it expected to get same clustering results?
+Answer-b)No
+
+7. Is it possible that Assignment of observations to clusters does not change between successive iterations in K-Means?
+Answer-a)Yes
+
+8. Which of the following can act as possible termination conditions in K-Means?
+Answer-d) All of the above
+
+
+9. Which of the following algorithms is most sensitive to outliers?
+Answer-a) K-means clustering algorithm
+
+10. How can Clustering (Unsupervised Learning) be used to improve the accuracy of Linear Regression model (Supervised Learning):
+
+Answer-d) All of the above
+
+
+11. What could be the possible reason(s) for producing two different dendrograms using agglomerative clustering algorithms for the same dataset?
+
+Answer-d) All of the above
+
+
+12. Is K sensitive to outliers?
+Answer-The K-means clustering algorithm is sensitive to outliers, because a mean is easily influenced by extreme values. K-medoids clustering is a variant of K-means that is more robust to noises and outliers.
+
+13. Why is K means better?
+Answer-K-Means for Clustering is one of the popular algorithms for this approach. Where K means the number of clustering and means implies the statistics mean a problem. It is used to calculate code-vectors (the centroids of different clusters). According to a tutorial, for any word/value/key that needs to be ‘vector quantized’, it is by calculating the distance from all the code vectors and assign the index of the code vector with the minimum distance to this value. For example, clustering can be applied to MP3 files, cellular phones are the general areas that use this technique.
+
+14. Is K means a deterministic algorithm?
+Answer-One of the significant drawbacks of K-Means is its non-deterministic nature. K-Means starts with a random set of data points as initial centroids. This random selection influences the quality of the resulting clusters. Besides, each run of the algorithm for the same dataset may yield a different output.

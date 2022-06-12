@@ -1,0 +1,46 @@
+1. Which of the following is the correct formula for total variation?
+b) Total Variation = Residual Variation + Regression Variation
+
+2. Collection of exchangeable binary outcomes for the same covariate data are called outcomes.
+c) binomial
+
+3. How many outcomes are possible with Bernoulli trial?  
+a) 2
+
+
+4. If Ho is true and we reject it is called
+a) Type-I error 
+
+
+5. Level of significance is also called:
+c) Level of confidence
+
+                                                              6. The chance of rejecting a true hypothesis decreases when sample size is:
+a) Decrease                                                                                                               7. Which of the following testing is concerned with making decisions using data?
+b) b) Hypothesis
+
+                                                             8. What is the purpose of multiple testing in statistical inference? 
+d) All of the mentioned
+
+9. Normalized data are centred at and have units equal to standard deviations of the original data
+a) 0                                                                                                                                                                                                                                                10. What Is Bayes' Theorem?
+Bayes' theorem describes the probability of occurrence of an event related to any condition. It is also considered for the case of conditional probability. Bayes theorem is also known as the formula for the probability of “causes”.
+
+
+11. What is z-score?
+A z score is simply defined as the number of standard deviation from the mean. The z-score can be calculated by subtracting mean by test value and dividing it by standard value. Where x is the test value, μ is the mean and σ is the standard value
+
+12. What is t-test?
+The t-test is any statistical hypothesis test in which the test statistic follows a Student's t-distribution under the null hypothesis.
+
+13. What is percentile?
+If your test score is in the 13th percentile, it means that you scored better than 13 percent of all the test takers. It also means that 87 percent scored the same or better than you.
+
+
+14. What is ANOVA?
+ANOVA is a statistical method that stands for analysis of variance. ANOVA was developed by Ronald Fisher in 1918 and is the extension of the t and the z test. Before the use of ANOVA, the t-test and z-test were commonly used. But the problem with the T-test is that it cannot be applied for more than two groups.
+
+15. How can ANOVA help?
+
+ANOVA checks the impact of one or more factors by comparing the means of different samples. We can use ANOVA to prove/disprove if all the medication treatments were equally effective or not. Another measure to compare the samples is called a t-test.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

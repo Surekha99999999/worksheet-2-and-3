@@ -1,0 +1,55 @@
+1. What represent a population parameter?
+Answer-C) both
+
+2. What will be median of following set of scores (18,6,12,10,15)?
+Answer-C) 12
+
+3. What is standard deviation?
+Answer-D) All of the above
+
+4. The intervals should be ______ in a grouped frequency distribution
+Answer-C) Both of these
+
+5. What is the goal of descriptive statistics?
+Answer-D) All of these
+
+
+6. A set of data organized in a participant by variables format is called
+Answer-B) Data set
+
+
+7. In multiple regression,_______ independent variables are used
+Answer-C) 1
+
+
+8. Which of the following is used when you want to visually examine the relationship between 2 quantitative variables?
+Answer-B) 
+
+
+9. Two or more groups means are compared by using
+Answer-D) Analysis of variance
+
+
+10. _______is a raw score which has been transformed into standard deviation units?
+Answer-A) Z-score
+
+
+11. _______is the value calculated when you want the arithmetic average?
+Answer-C) mean
+
+
+12. Find the mean of these set of number (4,6,7,9,2000000)?
+Answer-D) 400005.2
+
+
+13. _______ is a measure of central tendency that takes into account the magnitude of scores?
+Answer-D) Mean
+
+
+14. ______ focuses on describing or explaining data whereas ______involves going beyond immediate
+data and making inferences
+Answer-A) Descriptive and inferences
+
+
+15. What is the formula for range?
+Answer-D)H-L
